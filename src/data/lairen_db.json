@@ -1,0 +1,6714 @@
+[
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 1,
+    "nombre": "Ju'Han, genio comunal",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 2,
+    "nombre": "Oráculo de la fortuna",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 3,
+    "nombre": "Obsequiante generosa",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 4,
+    "nombre": "Lampara quebradiza",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 5,
+    "nombre": "Ser de la riqueza",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 6,
+    "nombre": "Recompensador de elecciones",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 7,
+    "nombre": "Custodia del cielo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 8,
+    "nombre": "Deseo de sangre",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 9,
+    "nombre": "Tejedora de destinos",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 10,
+    "nombre": "Dueño de espejismos",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 11,
+    "nombre": "Materializadora de tesoros",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 12,
+    "nombre": "Yion, creadora de ilusiones",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 13,
+    "nombre": "Emanador de daño",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 14,
+    "nombre": "Aparición del templo de roca",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 15,
+    "nombre": "Eshana y sus asistentes",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 16,
+    "nombre": "Yian, cultor de órdenes",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 17,
+    "nombre": "Ser esclavo del averno",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 18,
+    "nombre": "Convocador de entidades",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 19,
+    "nombre": "Yien, el deseo oerfecto",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 20,
+    "nombre": "Protector del alba",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 21,
+    "nombre": "Sanadora de héroes",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 22,
+    "nombre": "Fabricadora de opciones",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 23,
+    "nombre": "Deseo disipar el tiempo",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 24,
+    "nombre": "Deseo encerrar la entidad",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 25,
+    "nombre": "Poder, fortuna o inteligencia",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 26,
+    "nombre": "Deseo absorberlos en mi lámpara",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 27,
+    "nombre": "La tríada de deseos",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 28,
+    "nombre": "Lampara perdida",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 29,
+    "nombre": "Artilugio atrapa mentes",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 30,
+    "nombre": "Orbe de anhelo material",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 31,
+    "nombre": "Caminante estruendoso",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 32,
+    "nombre": "El aplastavidas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 33,
+    "nombre": "Sacrificio por el clan",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 34,
+    "nombre": "Custodio dorado",
+    "tipo": "U / M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 35,
+    "nombre": "Portador del castigo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 36,
+    "nombre": "Fundetesoros gigante",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 37,
+    "nombre": "Glotón de la fuerza",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 38,
+    "nombre": "Conjurador primigenio",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 39,
+    "nombre": "Aplastatropas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 40,
+    "nombre": "Snu, muerte por su nombre",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 41,
+    "nombre": "Titán, sangre de fuego",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 42,
+    "nombre": "Desafiante malhumorado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 43,
+    "nombre": "Coloso consume oro",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 44,
+    "nombre": "Aldebarán, vigilante del paso",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 45,
+    "nombre": "Titán de la ruina",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 46,
+    "nombre": "Gigante del martirio",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 47,
+    "nombre": "Yoyi, heraldo de la destruccion",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 48,
+    "nombre": "Suwuong, ira primal",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 49,
+    "nombre": "Convocador de refuerzos",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 50,
+    "nombre": "Aniquilador de esperanzas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 51,
+    "nombre": "Choque de potencias",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 52,
+    "nombre": "Aplastando voluntades",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 53,
+    "nombre": "Aun no he escuchado la campana",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 54,
+    "nombre": "Quitar la vitalidad",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 55,
+    "nombre": "¡Aplastarlos a todos!",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 56,
+    "nombre": "Fundidor de oro del coloso",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 57,
+    "nombre": "Reliquia de ritual ancestral",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 58,
+    "nombre": "Arbol arrancado",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 59,
+    "nombre": "Hermanos biribiri",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 60,
+    "nombre": "Héroe de la tropa",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 61,
+    "nombre": "Alma renovada",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 62,
+    "nombre": "Apicultor del pueblo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 63,
+    "nombre": "Reclutador del clan",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 64,
+    "nombre": "Alfer, linaje forjador",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 65,
+    "nombre": "Gólem de piedra",
+    "tipo": "U / M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 66,
+    "nombre": "Fuerza escurridiza",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 67,
+    "nombre": "Fuerza del linaje",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 68,
+    "nombre": "Drank, linaje explorador",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 69,
+    "nombre": "Tropa de la pedramancia",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 70,
+    "nombre": "Ahriman, linaje burlesco",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 71,
+    "nombre": "Ariete furtivo",
+    "tipo": "U / M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 72,
+    "nombre": "Erudito de las artes ancestrales",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 73,
+    "nombre": "Tropas del frente",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 74,
+    "nombre": "Baldur, rey de los linajes",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 75,
+    "nombre": "Guerrero de los portales",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 76,
+    "nombre": "Huscarle imparable",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 77,
+    "nombre": "Aracnotanque",
+    "tipo": "U / M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 78,
+    "nombre": "Gahte, linaje mágico",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 79,
+    "nombre": "Titán de roca",
+    "tipo": "U / M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 80,
+    "nombre": "Catalina, primera arcana",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 81,
+    "nombre": "Superar la megalofobia",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 82,
+    "nombre": "Ordenes de baldur",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 83,
+    "nombre": "Leyenda de los 7 valientes",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 84,
+    "nombre": "La eleccion de Baldur",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 85,
+    "nombre": "Exiliados a otro mundo",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 86,
+    "nombre": "Cabaña de reclutamiento",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 87,
+    "nombre": "Runa de Pedramancia",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 88,
+    "nombre": "Manifestador de abundancia",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 89,
+    "nombre": "Encarnación del oro",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 90,
+    "nombre": "Regalo del eter",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 91,
+    "nombre": "Ramas múltiples",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 92,
+    "nombre": "Haiten, ilusionista de cuerpos",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 93,
+    "nombre": "Kaol, meditante de la fuerza",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 94,
+    "nombre": "Uguey, Fundador de la Fe",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 95,
+    "nombre": "Andrea, ritualista de lo oscuro",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 96,
+    "nombre": "Ogrid, heraldo de la muerte",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 97,
+    "nombre": "Veronica, la maldita",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 98,
+    "nombre": "Artista de los pueblos",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 99,
+    "nombre": "Arlequín errante",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 100,
+    "nombre": "Esencia petrificada",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 101,
+    "nombre": "Cambiar un alma por poder",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 102,
+    "nombre": "Este es el próximo objetivo",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 103,
+    "nombre": "Toque de dragon",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 104,
+    "nombre": "Agujero espacio temporal",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 105,
+    "nombre": "Líder del clan traficante",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 106,
+    "nombre": "Azota costas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 107,
+    "nombre": "O´Man, rey esclavizado",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 108,
+    "nombre": "Gritón destructor",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 109,
+    "nombre": "Corona de la fuerza del dragón",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 110,
+    "nombre": "Filo del olvido",
+    "tipo": "ARR",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 111,
+    "nombre": "Anillos desvanecedores",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 112,
+    "nombre": "Baratija del deseo",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 113,
+    "nombre": "Objeto misterioso",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 114,
+    "nombre": "Zona de terremoto",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 115,
+    "nombre": "Ariete de guerra",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 116,
+    "nombre": "Festín de gigantes",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 117,
+    "nombre": "Alianza o rivalidad",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 118,
+    "nombre": "Condenado a otra dimensión",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 119,
+    "nombre": "Cueva de enanos",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Ancestros",
+    "ocr_prefix": "Ancestros",
+    "id_numero": 120,
+    "nombre": "Terreno congelado",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 1,
+    "nombre": "Valiente guerrero",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 2,
+    "nombre": "Inspiradora de moral",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 3,
+    "nombre": "Caballero pesado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 4,
+    "nombre": "Elegida para el don",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 5,
+    "nombre": "Especialista de la purga",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 6,
+    "nombre": "Serathia, sagrada general",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 7,
+    "nombre": "Doctor de guerra",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 8,
+    "nombre": "Encarnacion iracunda",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 9,
+    "nombre": "Domo de pedramante",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 10,
+    "nombre": "Comerciante nomada",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 11,
+    "nombre": "Calthea, la invocadora",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 12,
+    "nombre": "Katana de esencia",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 13,
+    "nombre": "Tharion, gran unificador",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 14,
+    "nombre": "Provocador del pavor",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 15,
+    "nombre": "Capitan inspirador",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 16,
+    "nombre": "Encadenador de almas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 17,
+    "nombre": "Lider de la falange",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 18,
+    "nombre": "Valcrist, incitador del fulgor",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 19,
+    "nombre": "Oradora de la valentia",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 20,
+    "nombre": "Clamador de refuerzos",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 21,
+    "nombre": "Celestial convocado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 22,
+    "nombre": "Elandra, vigor ardiente",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 23,
+    "nombre": "Genesis, cazadora de demonios",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 24,
+    "nombre": "Legado de la luz",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 25,
+    "nombre": "Encadenando a la guardia",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 26,
+    "nombre": "Apedreando al desafiante",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 27,
+    "nombre": "Reforzando el frente",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 28,
+    "nombre": "Volviendo a la batalla",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 29,
+    "nombre": "Despliegue tactico",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 30,
+    "nombre": "Invadiendo el averno",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 31,
+    "nombre": "Equipo de combate",
+    "tipo": "ARM",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 32,
+    "nombre": "Idolo del poder por sangre",
+    "tipo": "MR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 33,
+    "nombre": "Escuela de guerra Jakari",
+    "tipo": "MR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 34,
+    "nombre": "Sucubo aterrador",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 35,
+    "nombre": "Reencarnado avernal",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 36,
+    "nombre": "Chaman ritualista",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 37,
+    "nombre": "Escultor de gargolas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 38,
+    "nombre": "Cíclope alado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 39,
+    "nombre": "Controladores de esencia",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 40,
+    "nombre": "O'man, señor de las huestes",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 41,
+    "nombre": "Hermanos convocados",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 42,
+    "nombre": "Emboscada de piedra",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 43,
+    "nombre": "Presencia en luna de sangre",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 44,
+    "nombre": "Martillo de almas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 45,
+    "nombre": "Sacerdotisa poseida",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 46,
+    "nombre": "Consumidor de vitalidad",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 47,
+    "nombre": "Lord de la piedra",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 48,
+    "nombre": "Velmora, justicia de sangre",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 49,
+    "nombre": "Cazador de almas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 50,
+    "nombre": "Mandoble infernal",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 51,
+    "nombre": "Almas reencarnadas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 52,
+    "nombre": "Custodia de la puerta roja",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 53,
+    "nombre": "Coleccionista de almas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 54,
+    "nombre": "Severus, tormenta de sangre",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 55,
+    "nombre": "Luz-ion, creador de demonios",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 56,
+    "nombre": "Señora de las penas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 57,
+    "nombre": "Arrastrando los cuerpos",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 58,
+    "nombre": "Poseer por avaricia",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 59,
+    "nombre": "Congelando al condenado",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 60,
+    "nombre": "Invadiendo el plano terrenal",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 61,
+    "nombre": "Consumirse en el ritual",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 62,
+    "nombre": "Tomando posesion de tu mente",
+    "tipo": "ARR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 63,
+    "nombre": "Sentenciando al mundo",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 64,
+    "nombre": "Filos negros",
+    "tipo": "ARM",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 65,
+    "nombre": "El primer circulo",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 66,
+    "nombre": "Tablero macabro",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 67,
+    "nombre": "Proscrito del clan",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 68,
+    "nombre": "Jugando con el enemigo",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 69,
+    "nombre": "Nibru, chaman de la alianza",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 70,
+    "nombre": "Punta de Irion",
+    "tipo": "ARM",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 71,
+    "nombre": "Potenciador de Irion",
+    "tipo": "MR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 72,
+    "nombre": "Montura de roca",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 73,
+    "nombre": "Lanzando las rocas",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 74,
+    "nombre": "Mog, come almas",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 75,
+    "nombre": "Frenando el oleaje",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 76,
+    "nombre": "Arrancando el poder",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 77,
+    "nombre": "Buscando la esencia",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 78,
+    "nombre": "Carroñero de sobras",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 79,
+    "nombre": "Drug, abominacion desterrada",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 80,
+    "nombre": "Portador de profecias hundidas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 81,
+    "nombre": "Aldiluc, soberana del oleaje",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 82,
+    "nombre": "Entonando la melodia mortal",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 83,
+    "nombre": "Pidiendo favores antiguos",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 84,
+    "nombre": "Profanando la vision",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 85,
+    "nombre": "Mascara de vida y muerte",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 86,
+    "nombre": "Obelisco de las cadenas eternas",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 87,
+    "nombre": "Centella del cofre",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 88,
+    "nombre": "Retorno al vortice",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 89,
+    "nombre": "Protector de las fuentes",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 90,
+    "nombre": "Forjando desde la ceniza",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 91,
+    "nombre": "Simiente espectral",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 92,
+    "nombre": "Corazón de la montaña viva",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 93,
+    "nombre": "Ciclon del ocaso",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 94,
+    "nombre": "Liuth, energia primordial",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 95,
+    "nombre": "Transmutando tu vitalidad",
+    "tipo": "AL",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 96,
+    "nombre": "Pronunciando el eco del dragon",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 97,
+    "nombre": "Plumas sabias",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 98,
+    "nombre": "Columna del vínculo dracónico",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 99,
+    "nombre": "Susurro del abismo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 100,
+    "nombre": "Tempestad del crepusculo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 101,
+    "nombre": "Cataclismo dracónico",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 102,
+    "nombre": "Urlamok, aliento elemental",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 103,
+    "nombre": "Templo del favor eterno",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 104,
+    "nombre": "Fragmentando el ciclo",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 105,
+    "nombre": "Heraldo del abismo y la luz",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 106,
+    "nombre": "Madriguera del retorno",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 107,
+    "nombre": "Vigia del infinito",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 108,
+    "nombre": "Sonrisa profana",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 109,
+    "nombre": "Reliquia del dolor",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 110,
+    "nombre": "Esquirla de renacimiento",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 111,
+    "nombre": "Petalos de hiedra",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 112,
+    "nombre": "Altar de la experiencia",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 113,
+    "nombre": "Forja de la fuerza",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 114,
+    "nombre": "Apuesta inesperada",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 115,
+    "nombre": "Cristal de la memoria perdida",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 116,
+    "nombre": "Energia atada",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 117,
+    "nombre": "Fragmento de espejo",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 118,
+    "nombre": "Cáliz de la ruina",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 119,
+    "nombre": "Resquebrajando la esencia",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Cataclismo",
+    "ocr_prefix": "Cataclismo",
+    "id_numero": 120,
+    "nombre": "Alguacil reclutador",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 1,
+    "nombre": "Pequeña deidad",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 2,
+    "nombre": "Armadura interceptora",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 3,
+    "nombre": "Ejecutor de Maukhi",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 4,
+    "nombre": "Enviado de Nak",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 5,
+    "nombre": "Ente sacrificada",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 6,
+    "nombre": "Nak, deidad codiciosa",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 7,
+    "nombre": "Venganza cristalizada",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 8,
+    "nombre": "Hiuki, furia eterna",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 9,
+    "nombre": "Voz del olvido",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 10,
+    "nombre": "Ente de las cavernas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 11,
+    "nombre": "Deidad de los Jakaris",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 12,
+    "nombre": "Velneth, pulso silente",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 13,
+    "nombre": "Kel, quien exige sangre",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 14,
+    "nombre": "Augurio del destino",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 15,
+    "nombre": "Arak, heraldo del despojo",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 16,
+    "nombre": "La hija y sus juguetes",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 17,
+    "nombre": "Nothak, sombra del averno",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 18,
+    "nombre": "Meneth, arquitecto pensante",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 19,
+    "nombre": "Iris, cercenador de voluntades",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 20,
+    "nombre": "Fena, la ascendida",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 21,
+    "nombre": "Voz del cielo puro",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 22,
+    "nombre": "Maukhi, eterno travieso",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 23,
+    "nombre": "Llameante del averno",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 24,
+    "nombre": "La palma de la vida",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 25,
+    "nombre": "Controlando el caos",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 26,
+    "nombre": "Leyendo las constelaciones",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 27,
+    "nombre": "Maldigo toda tu prole",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 28,
+    "nombre": "Aqui termina la batalla",
+    "tipo": "ARR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 29,
+    "nombre": "Coronando a Luz-Ion",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 30,
+    "nombre": "O-Mamori del dolor",
+    "tipo": "ARM",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 31,
+    "nombre": "La suerte esta echada",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 32,
+    "nombre": "Toque eterno",
+    "tipo": "ARM",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 33,
+    "nombre": "Llave dimensional",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 34,
+    "nombre": "Mesa de moldeo",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 35,
+    "nombre": "Necrópolis de reyes",
+    "tipo": "MR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 36,
+    "nombre": "Antigua fuente de los eternos",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 37,
+    "nombre": "Luz del renacimiento",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 38,
+    "nombre": "Clave magica cristalizada",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 39,
+    "nombre": "Baltro, azar encarnado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 40,
+    "nombre": "Hadic, extranjero de Croso",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 41,
+    "nombre": "Sael, consume fortunas",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 42,
+    "nombre": "Ardor de guerra",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 43,
+    "nombre": "Orbe de manipulacion",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 44,
+    "nombre": "Cimitarra de Croso",
+    "tipo": "ARM",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 45,
+    "nombre": "Excalibur",
+    "tipo": "ARMR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 46,
+    "nombre": "Profecias de la muerte",
+    "tipo": "ARR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 47,
+    "nombre": "Tormenta de abundancia",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 48,
+    "nombre": "Evocadora hereje",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 49,
+    "nombre": "Espadachin de la evocacion",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 50,
+    "nombre": "Protectora de la herejia",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 51,
+    "nombre": "Asesino de las tinieblas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 52,
+    "nombre": "Obrero de Maukhi",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 53,
+    "nombre": "Katana de Nocryx",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 54,
+    "nombre": "Pirotesu, alquimista Nocryx",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 55,
+    "nombre": "Filo nocturno",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 56,
+    "nombre": "Golem de Nocryx",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 57,
+    "nombre": "Sombra de medianoche",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 58,
+    "nombre": "Kohdok, evocador de fortaleza",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 59,
+    "nombre": "Sorpresa letal",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 60,
+    "nombre": "Arrasabosques",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 61,
+    "nombre": "Suspiro funesto",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 62,
+    "nombre": "Teniente de los cristales",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 63,
+    "nombre": "Xarkor, señor de las menas Nocryx",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 64,
+    "nombre": "Portadora de esquirlas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 65,
+    "nombre": "Capataz de las menas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 66,
+    "nombre": "Luz-ion, capitan usurpador",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 67,
+    "nombre": "Zureth, guia hacia nuevas tierras",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 68,
+    "nombre": "Okri, enviado del Maukhi",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 69,
+    "nombre": "Castigador Nocryx",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 70,
+    "nombre": "Aliado inesperado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 71,
+    "nombre": "Las dagas letales",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 72,
+    "nombre": "Nimue, dama del rio negro",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 73,
+    "nombre": "Retrasar las filas enemigas",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 74,
+    "nombre": "Indicando como proceder",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 75,
+    "nombre": "Explorando la superficie",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 76,
+    "nombre": "Explotando los recursos",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 77,
+    "nombre": "Asesinando el alma",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 78,
+    "nombre": "Evocando al rey Akathme",
+    "tipo": "ARR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 79,
+    "nombre": "Visor de Nocryx",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 80,
+    "nombre": "El gran cristal",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 81,
+    "nombre": "Madriguera Drow",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 82,
+    "nombre": "Daga Nocryx",
+    "tipo": "ARM",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 83,
+    "nombre": "Vetas de Nocryx",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 84,
+    "nombre": "Letalidad eterea",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 85,
+    "nombre": "Vengador furioso",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 86,
+    "nombre": "Vik-thor, cuerno alto",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 87,
+    "nombre": "Campeon del clan",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 88,
+    "nombre": "Catapulta Kamikaze",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 89,
+    "nombre": "Sensei de la tropa",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 90,
+    "nombre": "Aliado de los rios",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 91,
+    "nombre": "Grok, Tirador vengativo",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 92,
+    "nombre": "Cronista del clan",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 93,
+    "nombre": "Embestida de las arenas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 94,
+    "nombre": "Roj-ho, la furia encarnada",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 95,
+    "nombre": "Escuadron peludo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 96,
+    "nombre": "Puños desgarradores",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 97,
+    "nombre": "Asesina de otras tierras",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 98,
+    "nombre": "Torbi, martir del clan",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 99,
+    "nombre": "Melena ardiente",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 100,
+    "nombre": "Carga de los Hojarasca",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 101,
+    "nombre": "Apoyo de las aldeas vecinas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 102,
+    "nombre": "Muerte asegurada",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 103,
+    "nombre": "Roedor escaramuzador",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 104,
+    "nombre": "Mojo, jugador violento",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 105,
+    "nombre": "Último en pie",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 106,
+    "nombre": "Raiken, Shogun de los Jakari",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 107,
+    "nombre": "Rinosumo colerico",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 108,
+    "nombre": "Fuerza Mecha-Felino Salvaje",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 109,
+    "nombre": "Yoro, leyenda del fin",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 110,
+    "nombre": "Desviviendo la escoria",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 111,
+    "nombre": "Lanzando al Kamikaze",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 112,
+    "nombre": "Honrando la tradicion",
+    "tipo": "ARR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 113,
+    "nombre": "Abriendo la represa",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 114,
+    "nombre": "Cazando en la noche",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 115,
+    "nombre": "Transformando lo destruido",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 116,
+    "nombre": "Cañonera capturada",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 117,
+    "nombre": "Torii del intercambio",
+    "tipo": "MR",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 118,
+    "nombre": "Gran daruma de la suerte",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 119,
+    "nombre": "Ojos de furia",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Hermandad en Berin",
+    "ocr_prefix": "Hermandad",
+    "id_numero": 120,
+    "nombre": "Combustion espontanea",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 1,
+    "nombre": "Primera línea imperial",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 2,
+    "nombre": "Frente de ataque",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 3,
+    "nombre": "Maestro de la corona",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 4,
+    "nombre": "Custodio de la corona",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 5,
+    "nombre": "Compañero de armas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 6,
+    "nombre": "Sargento motivador",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 7,
+    "nombre": "Instigador imperial",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 8,
+    "nombre": "Conde junco",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 9,
+    "nombre": "Constructor de barricada",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 10,
+    "nombre": "Emisario de Bornis",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 11,
+    "nombre": "Inspirador de las tropas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 12,
+    "nombre": "Berserker encadenado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 13,
+    "nombre": "Eleonor, inspiradora de la moral",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 14,
+    "nombre": "Protector del emperador",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 15,
+    "nombre": "Jinete de bestias",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 16,
+    "nombre": "Guardia de élite",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 17,
+    "nombre": "Tropas de refuerzo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 18,
+    "nombre": "Maximus, el formidable",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 19,
+    "nombre": "Instructor de futuras tropas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 20,
+    "nombre": "Augustus, el emperador",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 21,
+    "nombre": "Maurus, noble campeón",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 22,
+    "nombre": "Heroína sin nombre",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 23,
+    "nombre": "Formar muro de escudos",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 24,
+    "nombre": "Grito de sargento",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 25,
+    "nombre": "Planificación estratégica",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 26,
+    "nombre": "Alertar al rey",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 27,
+    "nombre": "Inspiración del emperador",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 28,
+    "nombre": "Barraca de reclutas",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 29,
+    "nombre": "Escudo de refuerzo",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 30,
+    "nombre": "Lancero vengativo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 31,
+    "nombre": "Asesina sanguinaria",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 32,
+    "nombre": "Escaramuzador de Imran",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 33,
+    "nombre": "Mercader de armas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 34,
+    "nombre": "Maestro de Imran",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 35,
+    "nombre": "Portador de lanzas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 36,
+    "nombre": "Petardo contratado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 37,
+    "nombre": "Rakti, gran anélido milenario",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 38,
+    "nombre": "Hábil lancero frenético",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 39,
+    "nombre": "Portador de las arenas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 40,
+    "nombre": "Líder motivador",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 41,
+    "nombre": "Combatiente aguerrido",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 42,
+    "nombre": "Heraldo armado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 43,
+    "nombre": "Artillero de Hamrra",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 44,
+    "nombre": "Implacable asesino fugaz",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 45,
+    "nombre": "Aixa, desertora de la corona",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 46,
+    "nombre": "Montura carnívora",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 47,
+    "nombre": "Kendal, constructor de ejércitos",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 48,
+    "nombre": "Afmid, líder estratega",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 49,
+    "nombre": "Hamira, reina vengativa",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 50,
+    "nombre": "Arquero de Hamrra",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 51,
+    "nombre": "Catapulta de batalla",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 52,
+    "nombre": "Ejecutando prisioneros",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 53,
+    "nombre": "Edictos de la reina",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 54,
+    "nombre": "Forjando la victoria",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 55,
+    "nombre": "Sacrificio de lealtad de los Imran",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 56,
+    "nombre": "Puesto de avanzada",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 57,
+    "nombre": "Recuerdo de Azahara",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 58,
+    "nombre": "Aprendiz de conjuros",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 59,
+    "nombre": "Controlador de voluntades",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 60,
+    "nombre": "Estudioso de la muerte",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 61,
+    "nombre": "Alumno de la proteccion",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 62,
+    "nombre": "Alumno de la destrucción",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 63,
+    "nombre": "Practicante de la adivinación",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 64,
+    "nombre": "Grimorista de lo oscuro",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 65,
+    "nombre": "Dominadora del aire",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 66,
+    "nombre": "Protector de lo extraño",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 67,
+    "nombre": "Manipulador ermitaño",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 68,
+    "nombre": "Alquimista de tesoros",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 69,
+    "nombre": "Instructor de levitación",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 70,
+    "nombre": "Canalizador de energía vital",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 71,
+    "nombre": "Doblegadora de almas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 72,
+    "nombre": "Canalizador arcano",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 73,
+    "nombre": "Autor de libros de levitacion",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 74,
+    "nombre": "Luchador del valle",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 75,
+    "nombre": "Maestro del control",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 76,
+    "nombre": "Instructor de la destrucción",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 77,
+    "nombre": "Lucandra, maestra de lo arcano",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 78,
+    "nombre": "Yor-nan, manipulador energético",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 79,
+    "nombre": "Wagner, archimago de la torre",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 80,
+    "nombre": "Rechazo de la intención",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 81,
+    "nombre": "Hechizos preparados",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 82,
+    "nombre": "Daño eléctrico",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 83,
+    "nombre": "Invocación de la tormenta",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 84,
+    "nombre": "Portal de Absorción",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 85,
+    "nombre": "Torre de Bornis",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 86,
+    "nombre": "Sello arcano",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 87,
+    "nombre": "Buscador exhaustivo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 88,
+    "nombre": "Oportunista de la flota",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 89,
+    "nombre": "Tripulante traicionado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 90,
+    "nombre": "Gala, ladrona de corazones",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 91,
+    "nombre": "Pagador de sueldos",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 92,
+    "nombre": "Matt, campeón pirata",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 93,
+    "nombre": "Provocadora de avaricia",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 94,
+    "nombre": "Traidor avaro",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 95,
+    "nombre": "Morgan, enriquecido por el botín",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 96,
+    "nombre": "Mazu, la reina pirata",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 97,
+    "nombre": "Pedir un deseo al mar",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 98,
+    "nombre": "Estrategias marítimas",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 99,
+    "nombre": "Desembarco en hamrra",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 100,
+    "nombre": "Cómico de otras tierras",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 101,
+    "nombre": "Espíritu risueño",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 102,
+    "nombre": "Riukcopal, guardián de riquezas",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 103,
+    "nombre": "Garra sorpresiva",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 104,
+    "nombre": "Acechando el reino",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 105,
+    "nombre": "Canto del dragón",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 106,
+    "nombre": "Totem del dragón",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 107,
+    "nombre": "Montura del espíritu del animal",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 108,
+    "nombre": "Planos de estrategia",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 109,
+    "nombre": "Armeria de la corona",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 110,
+    "nombre": "Concesión real",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 111,
+    "nombre": "Escudo ancestral",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 112,
+    "nombre": "Vendajes de guerra",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 113,
+    "nombre": "Daga de la justicia",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 114,
+    "nombre": "Nube de destrucción",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 115,
+    "nombre": "Maleficio de la miseria",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 116,
+    "nombre": "Profecía preliminar",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 117,
+    "nombre": "Vórtice de almas",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 118,
+    "nombre": "Caldero de destinos",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 119,
+    "nombre": "Hechizo de penuria",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Imperio",
+    "ocr_prefix": "Imperio",
+    "id_numero": 120,
+    "nombre": "Kornan, mascota del emperador",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 1,
+    "nombre": "Agua en el Desierto",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 2,
+    "nombre": "Balanza de Cadaveres",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 3,
+    "nombre": "Caldero negro",
+    "tipo": "A",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 4,
+    "nombre": "Cancelacion",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 5,
+    "nombre": "Rugido animal",
+    "tipo": "A",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 6,
+    "nombre": "Fosa de la Creacion",
+    "tipo": "A",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 7,
+    "nombre": "Jaula de Pajaros",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 8,
+    "nombre": "Muerte inminente",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 9,
+    "nombre": "Oraculo del Destino",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 10,
+    "nombre": "Proteccion divina",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 11,
+    "nombre": "Refuerzos",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 12,
+    "nombre": "Resurreccion",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 13,
+    "nombre": "Ritual de Negacion",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 14,
+    "nombre": "Rompiendo Puertas",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 15,
+    "nombre": "Tacticas de Batalla",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 16,
+    "nombre": "Tesoro Escondido",
+    "tipo": "A",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 17,
+    "nombre": "Union de Brujas",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 18,
+    "nombre": "Caida del Reino",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 19,
+    "nombre": "Carne fresca",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 20,
+    "nombre": "Discurso del Rey",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 21,
+    "nombre": "Orden de Salvacion",
+    "tipo": "AR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 22,
+    "nombre": "Amiga de los Arboles",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 23,
+    "nombre": "Gatitos de Bruja",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 24,
+    "nombre": "Ave majestuosa",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 25,
+    "nombre": "Corredor de los Bosques",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 26,
+    "nombre": "Ornamenta maravillosa",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 27,
+    "nombre": "Eli, pequeña Mascota",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 28,
+    "nombre": "Garras fulminantes",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 29,
+    "nombre": "Roedor infectado",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 30,
+    "nombre": "Manada felina",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 31,
+    "nombre": "Felino de la Montaña",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 32,
+    "nombre": "Phill, el mejor Amigo",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 33,
+    "nombre": "Rojo fugaz",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 34,
+    "nombre": "Arlequin de la Corona",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 35,
+    "nombre": "Anciana maestra",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 36,
+    "nombre": "Cali, la Grimorista",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 37,
+    "nombre": "Espiritu animal",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 38,
+    "nombre": "Hechicera de Sangre",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 39,
+    "nombre": "Hermanas Veneno",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 40,
+    "nombre": "Vidente efectiva",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 41,
+    "nombre": "Judit, la cautiva",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 42,
+    "nombre": "Madame Syra",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 43,
+    "nombre": "Nicol, la Aprendiz",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 44,
+    "nombre": "Rangel danzante",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 45,
+    "nombre": "Curandera de la Alianza",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 46,
+    "nombre": "Satira embrujada",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 47,
+    "nombre": "Espiritu marino",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 48,
+    "nombre": "Vidente del Bosque",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 49,
+    "nombre": "Hechicera elemental",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 50,
+    "nombre": "Calam, el tira piedras",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 51,
+    "nombre": "Contrabandista",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 52,
+    "nombre": "Errante del Desierto",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 53,
+    "nombre": "Guardianes de la Muralla",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 54,
+    "nombre": "Minero voluntario",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 55,
+    "nombre": "Kendal, lider del sindicato asesino",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 56,
+    "nombre": "Tirador de Hamrra",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 57,
+    "nombre": "Arbol Anciano",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 58,
+    "nombre": "Aura llameante",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 59,
+    "nombre": "Brisa danzante",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 60,
+    "nombre": "Creadora de Tormentas",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 61,
+    "nombre": "Marea Corporea",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 62,
+    "nombre": "Nata, madre del Bosque",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 63,
+    "nombre": "Protector de Minerales",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 64,
+    "nombre": "Sablon caminante",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 65,
+    "nombre": "Pedrusco intimidante",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 66,
+    "nombre": "Iris, ecos eternos",
+    "tipo": "UR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 67,
+    "nombre": "Asesino de los Mares",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 68,
+    "nombre": "Carne explosiva",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 69,
+    "nombre": "Drake, el veterano",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 70,
+    "nombre": "Azote de los Mares",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 71,
+    "nombre": "Fuerza de Choque",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 72,
+    "nombre": "Grumete irreverente",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 73,
+    "nombre": "Grupo de Asalto",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 74,
+    "nombre": "Morgan, terror de los Mares",
+    "tipo": "UR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 75,
+    "nombre": "Pet, perro Ladron",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 76,
+    "nombre": "Hermanas Sirene",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 77,
+    "nombre": "Sam, celoso del Oro",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 78,
+    "nombre": "La suboficial",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 79,
+    "nombre": "Carnada de Tiburones",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 80,
+    "nombre": "Timonel sin Rumbo",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 81,
+    "nombre": "Augustus, conspirador",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 82,
+    "nombre": "Centinela del Castillo",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 83,
+    "nombre": "Erodon, Monje General",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 84,
+    "nombre": "Mago de la Corona",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 85,
+    "nombre": "Comandante Aixa",
+    "tipo": "UR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 86,
+    "nombre": "Rey Graden",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 87,
+    "nombre": "Tim, el valiente",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 88,
+    "nombre": "Almirante Frederick",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 89,
+    "nombre": "Dana, Medica Bruja",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 90,
+    "nombre": "Fanatico del Oro",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 91,
+    "nombre": "Jav, la traidora",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 92,
+    "nombre": "Sombra del Desierto",
+    "tipo": "UR",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 93,
+    "nombre": "Guardiana del Mar",
+    "tipo": "U",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 94,
+    "nombre": "Caballeriza fugaz",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 95,
+    "nombre": "Campo de entrenamiento",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 96,
+    "nombre": "Santuario del Bosque",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 97,
+    "nombre": "Fuente de los Eternos",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 98,
+    "nombre": "Las minas de Rafet",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 99,
+    "nombre": "Muralla impenetrable",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 100,
+    "nombre": "Trampa de Espinas",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 101,
+    "nombre": "Totem de Espiritu animal",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 102,
+    "nombre": "Cascada de la Sabiduria",
+    "tipo": "M",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 103,
+    "nombre": "Bendicion de la Reina",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 104,
+    "nombre": "Buscando a la Liebre",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 105,
+    "nombre": "Esmeralda Magica",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 106,
+    "nombre": "Fervor de la Batalla",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 107,
+    "nombre": "Huevo de Dragon",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 108,
+    "nombre": "Lluvia de Oro",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 109,
+    "nombre": "Portacion",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 110,
+    "nombre": "Portal al Averno",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 111,
+    "nombre": "Promesa de Pago",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 112,
+    "nombre": "Recursos humanos",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 113,
+    "nombre": "Recuerdo amoroso",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 114,
+    "nombre": "Rubi magico",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 115,
+    "nombre": "Mascara tribal",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 116,
+    "nombre": "Tormenta de Fuego",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 117,
+    "nombre": "Bloqueo comercial",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Pacto Secreto",
+    "ocr_prefix": "Pacto S",
+    "id_numero": 118,
+    "nombre": "Manuscrito demoniaco",
+    "tipo": "T",
+    "total": 118
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 1,
+    "nombre": "Inventor de la proteccion",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 2,
+    "nombre": "Ingeniero militar",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 3,
+    "nombre": "Cupula del control profundo",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 4,
+    "nombre": "Guardaespaldas del consejo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 5,
+    "nombre": "Mina de control",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 6,
+    "nombre": "Protector de la escotilla",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 7,
+    "nombre": "Explorador acorazado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 8,
+    "nombre": "Arquitecta innovadora",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 9,
+    "nombre": "Custodio del arrecife",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 10,
+    "nombre": "Nautilus explorador",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 11,
+    "nombre": "Aliado de la superficie",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 12,
+    "nombre": "Inteligencia automatizada",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 13,
+    "nombre": "Thalor, guardian de Crosalia",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 14,
+    "nombre": "Avanzada del arrecife",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 15,
+    "nombre": "Acorazado de los portales",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 16,
+    "nombre": "Orbe de transmutacion",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 17,
+    "nombre": "Nautilus de combate",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 18,
+    "nombre": "Colin, arponero electrico",
+    "tipo": "UMR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 19,
+    "nombre": "Paladin de la fosa",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 20,
+    "nombre": "Escuadron Nautilus",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 21,
+    "nombre": "Naut, lord de lo profundo",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 22,
+    "nombre": "Ingeniero centinela",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 23,
+    "nombre": "Generador de entidades",
+    "tipo": "UM",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 24,
+    "nombre": "Decidir el plan",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 25,
+    "nombre": "Maximizar la defensa",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 26,
+    "nombre": "Artilugio de investigacion",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 27,
+    "nombre": "Detonador de arpones",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 28,
+    "nombre": "Cañon de arpones explosivos",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 29,
+    "nombre": "Bovina medusa",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 30,
+    "nombre": "Placas cambiaforma",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 31,
+    "nombre": "Generador de tempestades",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 32,
+    "nombre": "Potenciador de Aquanox",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 33,
+    "nombre": "Estatua de Thalassor",
+    "tipo": "MR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 34,
+    "nombre": "El Laserion, rayo mortal",
+    "tipo": "MR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 35,
+    "nombre": "Arpon de lo profundo",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 36,
+    "nombre": "Moluso reptante",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 37,
+    "nombre": "Devora escoria",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 38,
+    "nombre": "Hirviendo los mares",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 39,
+    "nombre": "Medumandibula",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 40,
+    "nombre": "Veneno de anemona",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 41,
+    "nombre": "Barracuda barrefondo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 42,
+    "nombre": "Cazatritones",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 43,
+    "nombre": "Tiburon escamoso",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 44,
+    "nombre": "Gran calamidad",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 45,
+    "nombre": "Aulladora de la superficie",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 46,
+    "nombre": "Kragmor, devora reinos",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 47,
+    "nombre": "Chalidra, amenaza destructora",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 48,
+    "nombre": "Isonde desterrado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 49,
+    "nombre": "Cangredientes",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 50,
+    "nombre": "Sierpegato engañoso",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 51,
+    "nombre": "Kraken, fuerza destructora",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 52,
+    "nombre": "Sierpes rompereinos",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 53,
+    "nombre": "Afanc depredador",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 54,
+    "nombre": "Dinotortuga",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 55,
+    "nombre": "Espinestrella toxica",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 56,
+    "nombre": "Mhork, el acechante",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 57,
+    "nombre": "Morcant, terrror emergido",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 58,
+    "nombre": "Nekrima, ponedora acuatica",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 59,
+    "nombre": "Nahuizotl, oculta en el lago",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 60,
+    "nombre": "Algas reconstructivas",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 61,
+    "nombre": "Desechos vivos",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 62,
+    "nombre": "Espinas putrefactas",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 63,
+    "nombre": "Sumidero de la encarnacion",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 64,
+    "nombre": "Emerger la calamidad",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 65,
+    "nombre": "Cazar en las profundidades",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 66,
+    "nombre": "Algas del dominio material",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 67,
+    "nombre": "Fosa del arrecife",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 68,
+    "nombre": "Garras afiladas",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 69,
+    "nombre": "Avanzada Coral ligero",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 70,
+    "nombre": "Ilusionista curioso",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 71,
+    "nombre": "Rastreador de la fosa",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 72,
+    "nombre": "Criadora del cardumen",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 73,
+    "nombre": "Entrenador del cardumen",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 74,
+    "nombre": "Novicia profetica",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 75,
+    "nombre": "Susurro profundo",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 76,
+    "nombre": "Lider del escuadron Coral",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 77,
+    "nombre": "Elite Coral pesado",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 78,
+    "nombre": "Curandera del arrecife",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 79,
+    "nombre": "Forastero de Croso",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 80,
+    "nombre": "Tropa coral",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 81,
+    "nombre": "Antigua Naiarcaris",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 82,
+    "nombre": "Presagiadora Coral",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 83,
+    "nombre": "Chitralia, hija de ancestros",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 84,
+    "nombre": "Madre del cardumen",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 85,
+    "nombre": "Erudito Coral",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 86,
+    "nombre": "Ashid, la hipnotizadora",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 87,
+    "nombre": "Sircel, reina de los coral",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 88,
+    "nombre": "Okuno, rey de los Coral",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 89,
+    "nombre": "Eisiel, arcana especialista",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 90,
+    "nombre": "Manacu, principe diplomatico",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 91,
+    "nombre": "Ahrigiel, princesa encantadora",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 92,
+    "nombre": "Tridente de Thalassor",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 93,
+    "nombre": "¡Alto ahi!",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 94,
+    "nombre": "Investigando la historia",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 95,
+    "nombre": "¡A guardar los juguetes!",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 96,
+    "nombre": "Nadando a la batalla",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 97,
+    "nombre": "Vislumbrar el camino",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 98,
+    "nombre": "Erupcion submarina",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 99,
+    "nombre": "Invocar la solucion",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 100,
+    "nombre": "Tallar la runa",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 101,
+    "nombre": "Hipnotizar al objetivo",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 102,
+    "nombre": "Oleaje peligroso",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 103,
+    "nombre": "Monolito de la proteccion",
+    "tipo": "MR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 104,
+    "nombre": "Refinadora de desperdicios",
+    "tipo": "M",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 105,
+    "nombre": "Ryn, rey de las profundidades",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 106,
+    "nombre": "Caracola magica",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 107,
+    "nombre": "Hipnoamulero",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 108,
+    "nombre": "Reflejo del futuro",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 109,
+    "nombre": "Regalo musical",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 110,
+    "nombre": "Ruinas del imperio",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 111,
+    "nombre": "Burbuja de fuerza",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 112,
+    "nombre": "Origen de la proteccion",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 113,
+    "nombre": "Cascaron del caos",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 114,
+    "nombre": "Boceto de construccion",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 115,
+    "nombre": "Objeto aterrador",
+    "tipo": "T",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 116,
+    "nombre": "Intercambiando almas",
+    "tipo": "A",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 117,
+    "nombre": "Sacudiendo la fosa",
+    "tipo": "AR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 118,
+    "nombre": "Rulo, campeon universal",
+    "tipo": "UR",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 119,
+    "nombre": "Censurador de estrategias",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Profundidades",
+    "ocr_prefix": "Profundidades",
+    "id_numero": 120,
+    "nombre": "Buceador oficinista",
+    "tipo": "U",
+    "total": 120
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 1,
+    "nombre": "Capullo desconocido",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 2,
+    "nombre": "Ramapua oculta",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 3,
+    "nombre": "Cascabufalo",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 4,
+    "nombre": "Atrapacuerpos",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 5,
+    "nombre": "Escarantula",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 6,
+    "nombre": "Hadariposa",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 7,
+    "nombre": "Mecaraña protectora",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 8,
+    "nombre": "Cocrongosta",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 9,
+    "nombre": "Aracnobajo",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 10,
+    "nombre": "Cascarabajo volador",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 11,
+    "nombre": "Incubadora del enjambre",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 12,
+    "nombre": "Langorpion",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 13,
+    "nombre": "Slime posesivo",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 14,
+    "nombre": "Furia de fuego",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 15,
+    "nombre": "Reina de la infeccion",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 16,
+    "nombre": "Lider del enjambre",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 17,
+    "nombre": "Saltador de mar",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 18,
+    "nombre": "Incubadora asesina",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 19,
+    "nombre": "Maravilla aterradora",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 20,
+    "nombre": "Escornoguzano",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 21,
+    "nombre": "El garruano, leyenda de hamrra",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 22,
+    "nombre": "Reproductor feroz",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 23,
+    "nombre": "Devorador de almas",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 24,
+    "nombre": "Verdugo infernal",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 25,
+    "nombre": "Juez injusto",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 26,
+    "nombre": "Sucubo descendente",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 27,
+    "nombre": "Demonio menor",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 28,
+    "nombre": "Comandante condenado",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 29,
+    "nombre": "Vigilante del portal",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 30,
+    "nombre": "Madre de demonios",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 31,
+    "nombre": "Criatura de la avanzada",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 32,
+    "nombre": "Discipulo convertido",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 33,
+    "nombre": "Luzion, furia del averno",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 34,
+    "nombre": "Magistrado infernal",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 35,
+    "nombre": "Gigante condenado",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 36,
+    "nombre": "Constructor de altares",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 37,
+    "nombre": "Guardiana del altar",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 38,
+    "nombre": "Furia vengadora",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 39,
+    "nombre": "Pacificador",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 40,
+    "nombre": "Guia espiritual del ojo",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 41,
+    "nombre": "Luchador del templo",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 42,
+    "nombre": "Antiguo aprendiz de Kyle",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 43,
+    "nombre": "Instructor de novicios",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 44,
+    "nombre": "Estudiante de maldiciones",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 45,
+    "nombre": "Misionero del ojo",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 46,
+    "nombre": "Instigador de la moral",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 47,
+    "nombre": "Manipulador de portales",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 48,
+    "nombre": "Guardian de la vitalidad",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 49,
+    "nombre": "Eter renaciente",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 50,
+    "nombre": "Serafica pacificadora",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 51,
+    "nombre": "Primera linea",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 52,
+    "nombre": "Erodon, capitan del ojo",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 53,
+    "nombre": "Larik, enviada de la corona",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 54,
+    "nombre": "Kyle, leyenda",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 55,
+    "nombre": "Voluntario para sacrificio",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 56,
+    "nombre": "Juez de la corte del templo",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 57,
+    "nombre": "Mirk, borniano colerico",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 58,
+    "nombre": "Colmillo de PLata",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 59,
+    "nombre": "Emboscada de la manada",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 60,
+    "nombre": "Lider de la manada",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 61,
+    "nombre": "Esencia animal",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 62,
+    "nombre": "Hermano creador",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 63,
+    "nombre": "Hermano diseñador",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 64,
+    "nombre": "Hermano corrector",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 65,
+    "nombre": "Rio viviente",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 66,
+    "nombre": "Espiritu mineral",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 67,
+    "nombre": "Montaña de la invocacion",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 68,
+    "nombre": "Espiritu del viento",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 69,
+    "nombre": "Urlamok, guardian del oro",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 70,
+    "nombre": "Graden, rey corrompido",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 71,
+    "nombre": "Aixa, trono compartido",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 72,
+    "nombre": "Augustus, trono compartido",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 73,
+    "nombre": "Gota toxica",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 74,
+    "nombre": "Raiz de curacion provisoria",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 75,
+    "nombre": "Criadero de madera",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 76,
+    "nombre": "Alumno inesperado",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 77,
+    "nombre": "Banquete frustrado",
+    "tipo": "A",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 78,
+    "nombre": "Castigo maldito",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 79,
+    "nombre": "Sentencia compartida",
+    "tipo": "A",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 80,
+    "nombre": "Dictado equitativo",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 81,
+    "nombre": "Resurgimiento",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 82,
+    "nombre": "Caos en Berin",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 83,
+    "nombre": "Volviendo del paseo",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 84,
+    "nombre": "Ordenando la condena",
+    "tipo": "A",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 85,
+    "nombre": "Primer encuentro",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 86,
+    "nombre": "Reclutamiento fructifero",
+    "tipo": "A",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 87,
+    "nombre": "Venganza de Erodon",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 88,
+    "nombre": "Enterrados juntos",
+    "tipo": "A",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 89,
+    "nombre": "Estocada demoniaca",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 90,
+    "nombre": "Bienvenido al averno",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 91,
+    "nombre": "Cerrando portales",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 92,
+    "nombre": "Ritual de invocacion",
+    "tipo": "AR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 93,
+    "nombre": "Cumulo de hongos",
+    "tipo": "M",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 94,
+    "nombre": "Arbol de salvia vigorizante",
+    "tipo": "M",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 95,
+    "nombre": "Grieta al averno",
+    "tipo": "M",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 96,
+    "nombre": "Portal en el castillo",
+    "tipo": "M",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 97,
+    "nombre": "Altar de Iris",
+    "tipo": "M",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 98,
+    "nombre": "Dojo de entrenamiento",
+    "tipo": "M",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 99,
+    "nombre": "Reservas de oro",
+    "tipo": "M",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 100,
+    "nombre": "Flor de hiedra venenosa",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 101,
+    "nombre": "Capullo del arbol infestado",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 102,
+    "nombre": "Huevos de pantano",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 103,
+    "nombre": "Pantano de Bornis",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 104,
+    "nombre": "Libros del juez injusto",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 105,
+    "nombre": "Suprema corte infernal",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 106,
+    "nombre": "Carta de condena",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 107,
+    "nombre": "Cadenas rotas",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 108,
+    "nombre": "Fuego ritual",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 109,
+    "nombre": "Vino vigorizante de monje",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 110,
+    "nombre": "Runa de pacificacion",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 111,
+    "nombre": "Estatua del angel prometido",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 112,
+    "nombre": "Desechos de la brujula pirata",
+    "tipo": "T",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 113,
+    "nombre": "Aluca condenadora",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 114,
+    "nombre": "Mineral condenado",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 115,
+    "nombre": "Susto perturbador",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 116,
+    "nombre": "Malakhar, La Infame",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 117,
+    "nombre": "Lider de la plebe infernal",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 118,
+    "nombre": "Asesino de almas",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 119,
+    "nombre": "Severus, demonio oculto",
+    "tipo": "UR",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 120,
+    "nombre": "Dorian, maullido infernal",
+    "tipo": "U",
+    "total": 121
+  },
+  {
+    "expansion": "Trono Compartido",
+    "ocr_prefix": "Trono",
+    "id_numero": 121,
+    "nombre": "Sarib, venganza danzante",
+    "tipo": "U",
+    "total": 121
+  }
+]
